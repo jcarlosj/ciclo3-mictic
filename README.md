@@ -8,3 +8,5 @@ Este es el respositorio para entrega de proyecto del ciclo 3 Mision TIC 2022
 - Dev: Gisell
 - Dev: Sharon
 - Dev: Alexandra
+
+Fecha: Sep 5 de 2021
